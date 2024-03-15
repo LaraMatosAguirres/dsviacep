@@ -10,7 +10,7 @@ O software consiste em uma aplicação de integração com o site ViaCep, buscan
 
 ## Layout web
 
-![Web 1](https://raw.githubusercontent.com/LaraMatosAguirres/dsviacep/main/assets/apresentaçãodsviacep.mp4)
+https://github.com/LaraMatosAguirres/dsviacep/assets/143002345/e7c1b4b4-9d5f-4c29-a0ac-f70c97f9caf7
 
 
 # Tecnologias utilizadas
@@ -24,20 +24,16 @@ O software consiste em uma aplicação de integração com o site ViaCep, buscan
 
 ## Front end web
 
-Pré-requisitos: npm / yarn
+Pré-requisitos: não tem 
 
 ```
 # clonar repositório
-git clone https://github.com/LaraMatosAguirres/DSCatalog-projectReact.git
+git clone git@github.com:LaraMatosAguirres/dsviacep.git
 
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
+# recomendação: utilize o VSCode
+abra o projeto na IDE
+clique com o botão direito do mouse em cima de index.html
+selecione a opção: Open With Live Server
 ```
 
 # Autor
