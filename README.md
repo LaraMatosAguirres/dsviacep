@@ -24,8 +24,6 @@ https://github.com/LaraMatosAguirres/dsviacep/assets/143002345/e7c1b4b4-9d5f-4c2
 
 ## Front end web
 
-Pré-requisitos: não tem 
-
 ```
 # clonar repositório
 git clone git@github.com:LaraMatosAguirres/dsviacep.git
