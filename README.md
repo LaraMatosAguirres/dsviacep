@@ -29,7 +29,7 @@ O software consiste em uma aplicação de integração com o site ViaCep, buscan
 ## Front end
 
 - HTML / CSS /
--JavaScript
+- JavaScript
 
 # Como executar o projeto
 
