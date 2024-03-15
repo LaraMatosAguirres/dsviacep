@@ -10,7 +10,7 @@ O software consiste em uma aplicação de integração com o site ViaCep, buscan
 
 ## Layout web
 
-![Web 1](https://raw.githubusercontent.com/LaraMatosAguirres/dscviacep/main/assets/apresentaçãodsviacep.mp4)
+![Web 1](https://raw.githubusercontent.com/LaraMatosAguirres/dsviacep/main/assets/apresentaçãodsviacep.mp4)
 
 
 # Tecnologias utilizadas
