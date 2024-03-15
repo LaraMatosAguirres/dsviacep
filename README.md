@@ -1,14 +1,12 @@
-# DS Catalog
+# DS ViaCep
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LaraMatosAguirres/dsviacep/blob/master/LICENSE) 
 
 # Sobre o projeto
 
-DS Catalog é uma aplicação Full Stack web e mobile construída durante o Bootcamp  **Spring React**, ministrado pela [DevSuperior](https://devsuperior.com/).
+DS ViaCep é uma aplicação Frontend web construída durante o Bootcamp  **Spring React - Nivelamento de frontend**, ministrado pela [DevSuperior](https://devsuperior.com/).
 
-O software consiste em uma aplicação de catálogo de produtos, onde há três tipos de permissões, a do usuário não autenticado, que pode apenas visualizar os produtos, a do usuário com perfil operador, que pode também adicionar categorias ou produtos e a do usuário administrador, que além das outras permissões, também pode gerenciar os outros usuários da aplicação.
-
-Neste projeto também foram trabalhados tópicos como testes com Junit, integração com storage de imagens na AWS, além de CI/CD e implantação com Docker e AWS. 
+O software consiste em uma aplicação de integração com o site ViaCep, buscando o endereço do usuário a partir do CEP digitado.
 
 ## Layout web
 
